@@ -418,7 +418,7 @@
 
 
     <string name="Remove_Ads">"إزالة الاعلانات"</string>
-    <string name="Reward">" مكافاة"</string>
+    <string name="Reward">" مُـكافاة"</string>
     <string name="Please_Wait___">"الرجاء الإنتظار…"</string>
     <string name="Purchasing">"المشتريات"</string>
 
@@ -458,13 +458,13 @@
 
     <string name="Daily_Reward">"المكافأة اليومية"</string>
     <string name="Reset">"إعادة تعيين"</string>
-    <string name="Plasma">"بلازما"</string>
-    <string name="Plasma_Mogul">"ملك البلازما"</string>
-    <string name="Plasma_Collector">"جامع البلازما"</string>
-    <string name="Plasma_Hoarder">"مكدس البلازما"</string>
-    <string name="Collect_1_000_Plasma">"جمع 1000 من البلازما."</string>
-    <string name="Collect_10_000_Plasma_">"جمع 10،000 من البلازما."</string>
-    <string name="Collect_100_000_Plasma">"جمع 100،000 من البلازما."</string>
+    <string name="Plasma">"البلازمة "</string>
+    <string name="Plasma_Mogul">"ملك البلازمة"</string>
+    <string name="Plasma_Collector">"جامع البلازمة "</string>
+    <string name="Plasma_Hoarder">"مكدس البلازمة"</string>
+    <string name="Collect_1_000_Plasma">"جمع 1000 من البلازمة."</string>
+    <string name="Collect_10_000_Plasma_">"جمع 10،000 من البلازمة."</string>
+    <string name="Collect_100_000_Plasma">"جمع 100،000 من البلازمة."</string>
     <string name="Plasma_Collected_">"البلازما المجموعة :"</string>
     <string name="Plasma_Purchases">"مشتريات البلازما"</string>
 
@@ -490,7 +490,7 @@
 
     <string name="Randomize">"عشوائية"</string>
 
-    <string name="Harassment">"مضايقة"</string>
+    <string name="Harassment">"مُضايقـة"</string>
 
     <string name="_2v2">"٢ضد٢"</string>
 
@@ -536,9 +536,9 @@
     <string name="Select_Team">"اختر فريق"</string>
     <string name="MANAGE_TEAMS">"إدارة الفِرق"</string>
     <string name="CLAN_INVITE">"الدعوة إلى العشيرة"</string>
-    <string name="TEAM_INVITE">"الدعوة الى الفريق"</string>
+    <string name="TEAM_INVITE">"الدعوة إلى الفريق"</string>
     <string name="Team_Size">"حجم الفريق"</string>
-    <string name="Team_Name">"اسم الفريق"</string>
+    <string name="Team_Name">"إسم الفريق"</string>
     <string name="CREATE_TEAM">"إنشاء فريق"</string>
     <string name="Solo">"منفرد"</string>
     <string name="Teams">"الفِرق"</string>
@@ -559,7 +559,7 @@
     <string name="Other">"آخر"</string>
     <string name="Leave_Team">"الخروج من الفريق"</string>
 
-    <string name="Remove_Player">"إزالة لاعب"</string>
+    <string name="Remove_Player">"إزالة اللاعب"</string>
     <string name="Reject_Invitation">"رفض الدعوة"</string>
     <string name="Leave_Game">"الخروج من اللعبة"</string>
     <string name="Remove_Friend">"أزالة صديق"</string>
@@ -579,7 +579,7 @@
     <string name="You_dont_own_the_team_">" انت لا تمتلك الفريق:"</string>
     <string name="User_has_already_been_invited_">" تم دعوة المستخدم ."</string>
     <string name="Maximum_players_allowed_on_the_team_">"عدد اللاعبين الأقصى المسموح به في الفريق:"</string>
-    <string name="Name_is_already_in_use_">"الاسم قيد الإستخدام بالفعل"</string>
+    <string name="Name_is_already_in_use_">"الاسم مُستعمل"</string>
     <string name="User_is_not_in_the_team_">"اللاعب ليس في الفريق."</string>
     <string name="You_are_not_invited_to_team_">"لست مدعواً للفريق:"</string>
     <string name="Team_does_not_exist_">"لا وجود لهذا الفريق:"</string>
@@ -607,7 +607,7 @@
 
     <string name="No_file_browser_installed_">"لا ملف متصفح مثبت!"</string>
     <string name="Choose_File">"اختر ملف"</string>
-    <string name="Google_Profile">"الملف الشخصي في Google"</string>
+    <string name="Google_Profile">"الملف الشخصي في جـوجـل"</string>
     <string name="You_must_be_signed_in_to_Google_">"يجب تسجيل الدخول إلى برنامج Google."</string>
 
     <string name="MAYHEM">"نمط الفوضى"</string>
@@ -756,7 +756,7 @@
     <string name="Compression_Quality_">"ضغط الجودة:"</string>
     <string name="inapproriate_info">"وتشمل الصور الغير لائقة, الكراهية، وجور، الصور الفاحشة ، صورالعنف والمخدرات والجنس والعري، صور شخصية لكامل الجسم، الغموض، غير وضوح، و صور المستويات الغير معدلة."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"هل أنت متأكد أنك تريد تحميل هذه الصورة؟"</string>
-    <string name="Grant_Permission">"يعطي الأذن"</string>
+    <string name="Grant_Permission">"يعطى الأذن"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"اللعبة تحتاج إذن التخزين لإسترجاع النسخة الإحتياطية الخاصة بك للاعب واحد!"</string>
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"اللعبة تحتاج إذن تحديد الموقع للعثور على أجهزة بلوتوث قريبة."</string>
     <string name="FFA_ULTRA">"حر للجميع الفائقة"</string>
@@ -786,7 +786,7 @@
     <string name="Nav_Buttons_">"أزرار التواصل:"</string>
     <string name="account_warning">"لا تقم بمشاركة كلمة مرور حسابك مع أي شخص لأي سبب كان.. لايمكننا إسترجاع حسابك إذا تم إختراقه!"</string>
     <string name="Clan_Hero">"بطل العشيرة"</string>
-    <string name="Win_1000_Clan_Wars">"الفوز بـ1000 حروب العشائر"</string>
+    <string name="Win_1000_Clan_Wars">"الفوز بـ1.000 حروب العشائر"</string>
     <string name="NAME_COLOR">"لون الإسم"</string>
     <string name="name_color_instructions">"حدد الحروف التي تريد تغييرها ثم اختر اللون."</string>
     <string name="Cannot_change_this_character_">"لا يمكن تغيير هذه الشخصية"</string>
@@ -868,13 +868,13 @@
     <string name="Win_a_Team_Deathmatch_Game">"الفوز في لعبة فريق الموت"</string>
     <string name="TEAM_DEATHMATCH">"فِرق الموت"</string>
     <string name="Speed_Click_Toggle">"تبديل سرعة الضغط"</string>
-    <string name="MOD">"مُدير"</string>
-    <string name="FAQ">الأسئلة الأكثر طرحاً</string>
+    <string name="MOD">"مُـديـر"</string>
+    <string name="FAQ">الأسئلة الأكثر إطراحً</string>
     <string name="BUY_EXTRA_SPINS">شراء حزمات تدوير إضافية</string>
     <string name="Spins_Remaining">التدويرات المتبقية</string>
     <string name="One_Spin">تدوير واحد (1)</string>
-    <string name="Bundle_of_Spins">حزمة من التدويرات (10)</string>
-    <string name="Plethora_of_Spins">حزمة كبيرة من التدويرات (50)</string>
+    <string name="Bundle_of_Spins">حِزمة من التدويرات (10)</string>
+    <string name="Plethora_of_Spins">حِـزمة كبيرة من التدويرات (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">تسجيل الخروج من كل الأجهزة</string>
     <string name="Tournament_Forming">يتم تشكيل البطولة الآن</string>
     <string name="TeamTourneyDescription">يجب عليك أنت وزميلك التسجيل للعب في بطولة الفرق. سوف يتم احتساب كل البلازما عند بدء البطولة ولكن يمكنك إلغاء التسجيل قبل أن تبدأ. تحتاج إلى%d من المتسابقين على الأقل للبدء.</string>
@@ -884,9 +884,9 @@
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">تعدد المحتوى من التطبيق قد تتغير عند لعب متعددة.</string>
     <string name="UI_Opacity_">شفافية الواجهة</string>
     <string name="LOAD">تحميل المخزن</string>
-    <string name="REMOVE">ازالة</string>
+    <string name="REMOVE">إزالة</string>
     <string name="BAN">حظر</string>
-    <string name="MODERATORS">المدراء</string>
+    <string name="MODERATORS">الـمُـدراء</string>
     <string name="ALL_CLAN">كل العشيرة</string>
     <string name="CO_LEADER">قائِد مُساعد</string>
     <string name="CLAN_HOUSE">بَيتُ العشيرة!</string>
@@ -952,21 +952,21 @@
 اللعبة\n
 \n
 1. لا تقم بمشاركة او تبادل الحسابات مع أي شخص، سيتسبب ذلك بحظر حسابي كِلا اللاعبيْن بشكل دائم.\n
-2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحضر حسابك بشكل دائم\n
-3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحضر حسابك بشكل دائم\n
-4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حضر حسابك بشكل دائم\n
-5. لا تسأل عن مرتبة القائد داخل العشائر\n
+2. لا تقم بطلب حساب من أي شخص، سيتسبب ذلك بحظر حسابك بشكل دائم\n
+3. لا تقم بالتظاهر أنك مُدير او يوتيوبر، سيتسبب ذلك بحظر حسابك بشكل دائم\n
+4. لا تقم بالغش للوصول إلى مراتب عالية في حروب العشيرة او التحديات، سيتسبب ذلك بإعادة نقاط و إنجازات حسابك من الصفر و قد تصل الأمور حتى حظر حسابك بشكل دائم\n
+5. لا تسأل عن رتبة القائد داخل العشائر\n
 6. لا تقم بمضايقة او إهانة أي أحد\n
 7. لا تقم بإنشاء ردهات دردشة بأسماء غير لائِقة\n
 8. إحترم المدراء\n
-9. لا تقم بالإستفادة من الأخطاء في اللعبة\n
-10. لا تقم بحضر عدة أعضاء من العشيرة بدون موافقة القائد\ \n
+9. لا تقم بالإستفادة من الثغرات في اللعبة\n
+10. لا تقم بحظر عدة أعضاء من العشيرة بدون موافقة القائد\ \n
 11. في أطوار اللعبة التي تحتوي على فِرق لا تقم بتشكيل فريق وهمي مع عدوك\n
 12. لا تكذب على المدراء\n
 13. لا تقم بتبادل العشائر من أجل المال أو البلازما\n
 14. لا تقم بإزعاج أي احد في الدردشة أو إرسال بريد مزعج\n
         \n
-إذا لم تقم بإحترام أو خرق أي قانون من هذه القوانين سيتم حضر حسابك\n
+إذا لم تقم بإحترام أو خرق أي قانون من هذه القوانين سيتم حظر حسابك\n
 (قد تمتد مدة الحظر من عدة ساعات إلى مدى الحياة، وذلك حسب شدة المشكلة التي تم التسبب فيها).\n
 \n
 اذا لاحظت وجود لاعب يخالف قوانين اللعبة، فيرجى ابلاغ المُدراء.
@@ -1053,15 +1053,15 @@
     <string name="upload_details" translatable="true">"
 الصورة المخصصة
 
-عندما تشتري مظهرًا مخصصًا ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
+عندما تشتري جلودً مخصصة ، ستنخفض جودة الصورة ، لكن هذا ليس ذا أهمية كبيرة وهو أمر طبيعي (لا فرق تقريبًا عند اللعب).
 
-قيد المراجعة (أصفر): يعني أن الجلد قيد المراجعة ، يجب عليك الانتظار حتى تتم الموافقة عليه.
+قيد المراجعة (أصفر): يعني أن الجلد قيد المراجعة ، يجب عليك الانتظار حتى تتم الموافقة عليه .لايمكن للاعبين رؤيته الان!.
 
-تم الموافقة عليه (باللون الأخضر): يمكن للاعبين الآخرين رؤية الجلد.
+تمت الموافقة عليه (باللون الأخضر): يمكن للاعبين الآخرين رؤية الجلد.
 
-تم التعويض (برتقالي): لقد تلقيت استردادًا للجلد، لأنه لا يفي بالمعايير المعمول بها ، يجب عليك تحديد صورة أخرى ليست نفسها.
+تم التعويض (برتقالي): لقد تلقيت استردادًا للجلد، لأنه يخالف بالمعايير المعمول بها ، يجب عليك تحديد صورة أخرى ليست نفسها.
 
-مرفوض (أحمر): يعني أن بشرتك لا يمكن رؤيتها من قبل اللاعبين الآخرين لأنها تحتوي على محتوى غير لائق ، فلن يتم إرجاع البلازما لك
+مرفوض (أحمر): يعني أن بشرتك لا يمكن رؤيتها من قبل اللاعبين الآخرين لأنها تحتوي على محتوى غير لائق ، ولن يتم إرجاع البلازما لك
 
 
 لماذا تم تجديد أو رفض بشرتي المخصصة؟
@@ -1081,7 +1081,7 @@
 - العنصرية / النازية / العنف
 - الناس يستخدمون السلاح
 - إشارات فاحشة باليد"</string>
-    <string name="PLAY_ONLINE_">اللعِب أونلاين !</string>
+    <string name="PLAY_ONLINE_">اللعِب مُـتـصٌـل !</string>
     <string name="Absorb_10_000_000_dots">اجمع 10,000,000 نقطة</string>
     <string name="Dot_Deity">آله النقاط</string>
     <string name="Mass_Mastery">السيطرة على الكتلة</string>
@@ -1096,15 +1096,15 @@
     <string name="community_skin_requirement">يجب عليك شراء الجلد المخصص لكي تستطيع شراء واستعمال جلود المجتمع.</string>
     <string name="You_can_purchase_this_community_skin_for_">تستطيع شراء جلد المجتمع هذا بمقابل</string>
     <string name="community_skin_information_for_buyer" translatable="true">يتم تحميل سكنات المجتمع من قبل لاعبين آخرين. تعمل هذه السكنات المجتمعية تمامًا مثل السكنات المخصصة، ويمكن تحريكها باستخدام السكنات العادية.</string>
-    <string name="VIEW_UPLOADER">اظهار صاحب الجلد</string>
+    <string name="VIEW_UPLOADER">إظهار صاحب الجلد</string>
     <string name="POPULAR">الشائع</string>
     <string name="NEW">جديد</string>
     <string name="Manage_Configurations">إدارة التكوينات</string>
     <string name="Leave_blank_for_all_uploaders_">اترك فراغا لرؤية جميع المحملين</string>
     <string name="More___">المزيد…</string>
     <string name="This_cannot_be_used_in_FFA_Classic_">هذه لا يمكن استخدامها في لعبة الحر للجميع الكلاسيكية.</string>
-    <string name="ENEMY">عدو</string>
-    <string name="ALLY">حليف</string>
+    <string name="ENEMY">عـدو</string>
+    <string name="ALLY">حـلـيـف</string>
     <string name="Rename">إعادة التسمية</string>
     <string name="Set_friendly_name_">ضع اسما لصديقك.</string>
     <string name="Leave_blank_for_none_">اترك فراغا لعدم التغيير.</string>
@@ -1132,10 +1132,10 @@
     <string name="BUY_NOW_">اشتري الآن !</string>
     <string name="already_purchased">أنت أو الشخص الذي تشتري هذا من أجله يمتلك هذا بالفعل.</string>
     <string name="Halo_Animations">مؤثرات صورة حافة الدائرة</string>
-    <string name="Trick_Notifications">اشعارات التلميحات</string>
+    <string name="Trick_Notifications">إشعارات التلميحات</string>
     <string name="Channel">قناة</string>
     <string name="Choose_Text_Size">اختار حجم النص</string>
-    <string name="LEVEL_COLOR">لون المستوى</string>
+    <string name="LEVEL_COLOR">تلوين المستوى</string>
     <string name="INITIATE">عضو جديد</string>
     <string name="x3_Clan_XP_Perm">3× نقاط خبرة العشيرة غير محدود</string>
     <string name="x2_Clan_XP_Perm">2× نقاط خبرة العشيرة غير محدود</string>
@@ -1144,9 +1144,9 @@
     <string name="Asia">آسيا</string>
     <string name="SET_PRIVACY">ضبط الخصوصية</string>
     <string name="ANIMATION">رسوم مُتحركة</string>
-    <string name="Color_Cycle">دورة الألوان</string>
-    <string name="Fast">سريع</string>
-    <string name="Slow">بطئ</string>
+    <string name="Color_Cycle">دائـرة الألوان</string>
+    <string name="Fast">سريـع</string>
+    <string name="Slow">بطيئ</string>
     <string name="Rainbow">ثُقب مُلوَّن</string>
     <string name="Horizontal">أفقي</string>
     <string name="Vertical">رأسي</string>
@@ -1161,10 +1161,10 @@
     <string name="Not_enough_plasma_">بلازما غير كافية</string>
     <string name="GET_PLASMA">إحصل على بلازما</string>
     <string name="ASTEROIDS">شُهُب</string>
-    <string name="CHRISTMAS">كريسماس</string>
+    <string name="CHRISTMAS">الـكريسـماس</string>
     <string name="Reason">السبب</string>
-    <string name="PUBLIC">عـامة</string>
-    <string name="PRIVATE">خـاصة</string>
+    <string name="PUBLIC">عـامـة</string>
+    <string name="PRIVATE">خـاصـة</string>
     <string name="Joined">الأنضمامات</string>
     <string name="Requests">الطلبات</string>
     <string name="Invites">الدعوات</string>
@@ -1177,7 +1177,7 @@
     <string name="DARK_MATTER">مادة مُظلِمه</string>
     <string name="Textures_will_be_regenerated_">سيتم تجديد القوام الأسود والأشكال المخصصة</string>
     <string name="Enable_Profile_Colors">تفعيل الوان الخلفية</string>
-    <string name="Session_Stats">احصائيات الجلسة</string>
+    <string name="Session_Stats">إحصائيات الجلسة</string>
     <string name="Time_">:الزمن</string>
     <string name="Show_Session_Stats">إظهار احصائيات الموسم</string>
     <string name="VALENTINES_DAY">"يوم الحب"</string>
@@ -1185,7 +1185,7 @@
     <string name="Max_XP_Chain_">:سلسلة الخبرة القصوى</string>
     <string name="POSITION_CANCEL_BUTTON">الغاء موقع الزر</string>
     <string name="INVISIBILITY">خاصية الاخفاء</string>
-    <string name="Set_Skin">وضع البشرة </string>
+    <string name="Set_Skin">وضع الجـلد </string>
     <string name="Primary">ابتدائي )اساسي)</string>
     <string name="Secondary">ثانوي</string>
     <string name="Both">اثنين معاً</string>
@@ -1194,17 +1194,17 @@
     <string name="MULTISKIN">مُتعددة الجِلد</string>
     <string name="DISABLED">الغاء التفعيل</string>
 
-    <string name="Refund__Multiskin">استعادة نقودك /nMultiskin</string>
+    <string name="Refund__Multiskin">إستعادة نقودك /nMultiskin</string>
     <string name="Invalid_Clan_ID_">اسم الكلان غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
-    <string name="Choose_Skin_Size">اختر حجم سكنك</string>
+    <string name="Choose_Skin_Size">إختر حجم سكنك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
     <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">إحذف السكن من المُجتمع!</string>
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
@@ -1231,7 +1231,7 @@
     <string name="Spectate_Killer_On_Death">مُشاهدة القاتل</string>
     <string name="Rainbow_Holes">ثُقب قوس قزح</string>
     <string name="LIFE_STEAL">سرقة الحياة</string>
-    <string name="Kicked_From_Game_">تَم طَـردُك من الغُرفة</string>
+    <string name="Kicked_From_Game_">تَم طَـردُك من الغُرفـة</string>
     <string name="Conquest">غَلَبة</string>
     <string name="Finish_the_last_mission_in_the_campaign_">انهِ المُهمه الأخيرة في الحملة</string>
     <string name="Collected_">جُمِعت:</string>
@@ -1299,7 +1299,7 @@
     <string name="FIND_GAMES">البحث عن غرفة!</string>
     <string name="PLAY_SOLO">اللعِب الفردي</string>
     <string name="SET_EMOTE">ضع مُلصقاً</string>
-    <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
+    <string name="Winner_Winner_Chicken_Dinner">رابح" والعشاء هو الدجـاج!</string>
     <string name="Win_a_Battle_Royale_">حقق إنتصار في صِراع حتى النهاية.</string>
     <string name="Battle_">صِراع !</string>
     <string name="BATTLE_ROYALE">صِراع حتى النهاية!</string>
@@ -1328,9 +1328,9 @@ Commands:
     <string name="Allow_Recombine">السماح بإعادة التجميع</string>
     <string name="Defenders">المُدافِعون</string>
     <string name="Attackers">المُهاجِمون</string>
-    <string name="MEGA_SPLIT">64x قسمة كبير</string>
+    <string name="MEGA_SPLIT">64x قِـسـمـة كبير</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
-    <string name="DELETE_ACCOUNT">حذف الحساب</string>
+    <string name="DELETE_ACCOUNT">حذف الحساب!</string>
     <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
 
 
@@ -1347,7 +1347,7 @@ Commands:
     <string name="x5_XP_1_Hour">  مسرع X5 لمدة ساعة</string>
     <string name="x5_XP_24_hours">مسرع X5 لمدة 24ساعة</string>
     <string name="x5_XP_Permanent">مسرع دائم X5</string>
-    <string name="CAMPAIGN_2">حملة ضد الاَليين 2</string>
+    <string name="CAMPAIGN_2">حـمـلـة ضـد الاَلِـيـين 2</string>
     <string name="India">الهند</string>
     <string name="Tutorial">الدورة التعليمية</string>
     <string name="TYCOON">حاصِد</string>
@@ -1356,14 +1356,14 @@ Commands:
     <string name="clan_id">رقم هوية العشيرة</string>
     <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
     <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
-    <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
+    <string name="no_response">لا توجد إستجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
     <string name="RAMADAN">رمضان</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
 
     <string name="sign_in_explanation" translatable="true">
 قم بتسجيل الدخول للوصول إلى اللعِب أونلاين."
 
-ستتمكن من:
+سوف تتمكن ايضا من:
 - اللعب والتواصل مع لاعبين آخرين حول العالم
 - مشاركة تقدمك مع اللاعبين
 - إنشاء وتخصيص الملف الشخصي
@@ -1402,7 +1402,7 @@ Commands:
         <item>"نجوم (الظلام)"</item>
         <item>"خطوط(الظلام)"</item>
         <item>"خطوط(الأبيض)"</item>
-        <item>"مخصص"</item>
+        <item>"مُـخـصـص"</item>
         <item>"لا شيء"</item>
     </string-array>
 
@@ -1418,7 +1418,7 @@ Commands:
         <item>"صغير"</item>
         <item>"عادي"</item>
         <item>"كبير"</item>
-        <item>"ضخم"</item>
+        <item>"كبير جدا"</item>
     </string-array>
 
     <string-array name="clan_war_sizes">
